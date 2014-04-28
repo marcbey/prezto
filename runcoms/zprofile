@@ -17,10 +17,10 @@ fi
 # Editors
 #
 
-export EDITOR='nano'
-export VISUAL='nano'
+export EDITOR='mvim'
+export VISUAL='mvim'
+export GEM_EDITOR='mvim'
 export PAGER='less'
-
 #
 # Language
 #
