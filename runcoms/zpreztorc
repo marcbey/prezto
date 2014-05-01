@@ -39,7 +39,9 @@ zstyle ':prezto:load' pmodule \
   'rails' \
   'archive' \
   'spectrum' \
-  'prompt'
+  'prompt' \
+  'syntax-highlighting' \
+  'history-substring-search'
 
 #
 # Editor
